@@ -1,0 +1,157 @@
+- Hello everyone, I am Chris Hyams, CEO of Indeed, and welcome to the next episode of Here to Help. At Indeed, our mission is to help people get jobs. This is what gets us out of bed in the morning and what keeps us going all day long, and what powers that mission is our people. Here to Help is a look at how experience, strength and hope inspires people to want to help others. Today's guest is Svenja Guddell, Indeed's Chief Economist, and Head of the Indeed Hiring Lab. The Indeed Hiring Lab is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation. Hiring Lab produces research on global labor market topics using Indeed's proprietary data and publicly available sources, and their work is available to media, researchers, policymakers, job seekers and employers, to help them better navigate the ever-changing world of work. Svenja currently serves on the board of directors for the National Association for Business Economics. Svenja, I am very excited to talk to you today. Thank you so much for joining me.
+ 
+ 
+ 
+- Thank you so much for having me here, Chris.
+ 
+ 
+ 
+- Let's start where we always start these conversations. How are you doing today?
+ 
+ 
+ 
+- I'm doing really well. I'm super excited to be here, and look forward to our conversation. How are you?
+ 
+ 
+ 
+- I am doing very well. I'm coming back from a weekend in Los Angeles, visiting family. I'm here in Stanford, Connecticut, and it's a beautiful day. I'm very happy to be here.
+ 
+ 
+ 
+- Fantastic.
+ 
+ 
+ 
+- So you joined Indeed as our chief economist at the beginning of this year to lead Indeed's Hiring Lab. What made you decide to join Indeed in the Hiring Lab?
+ 
+ 
+ 
+- Really, it's all about impact. If you think about where we were in this moment of time, the pandemic was happening, the labor market was doing crazy things that it hadn't been doing before. We saw a real imbalance between supply and demand of labor, and after I did housing for 10 years, and I thought, wow, this moment in time, I feel like 20 years from now, we'll look back onto this moment and be like, things happened, the future kind of starts now, and I wanted to be part of that. And so it was really interesting to me to kind of lean more into the labor space, and then as I did my research, I love Indeed's mission. I love it, and I'm a pretty mission-driven person. And I think it's really fundamental, if you think about it. You have to live somewhere and you have to have a job, and the ability to help people get a job is pretty powerful. And the Hiring Lab has a collection of fantastic individuals, really smart researchers, shout out to my team, and they being able to partner with them on an everyday basis to do research, uncover trends that are really interesting, and then to use Indeed's data that is, it's like a treasure trove. Being able to dig through for insights is really cool, and so that combination of things made it seem really easy to join Indeed for this job.
+ 
+ 
+ 
+- Yeah, I have to imagine this is a pretty interesting time to be a labor economist in that after years of friends and family possibly saying, "So what is it again that you do?," to now have real questions every single day. We're going to get into all of that, but I'd love to start. I tried to give a little outline in the intro, but as the foundation for the rest of the conversation, can you describe to folks who don't know, what does the Hiring Lab do? And maybe give an example or two of some of the things that we can see because of the data that Indeed brings to the conversation that we might not have seen before.
+ 
+ 
+ 
+- Yeah, and I think you already said it really well. We're a collection of international economists, data scientists that work with Indeed data, as well as publicly available data in different countries, to analyze trends in the labor market. And we're special. We're not like other research teams in the sense that we're not academics. We don't produce academic research. We try to produce research that is accessible to everyone, and so if you just happen to go to hiringlab.org, and you're like, hm, I wonder what's new in the latest and greatest in the labor market, you should be able to read one of our research posts and understand it, and get a sense for what's happening. And so we often collaborate with reporters to get our research out there and that's the best part if you find your research out in the wild, and you're like, ooh, that's us right there in the "New York Times." But really, it's trying to take a massive amount of data and be able to distill it into insights that help people make better decisions on an everyday basis, and in doing so via different channels, so it's either via presentations that we give to employers, it's talking to a reporter and it shows up in a newspaper article, or being at a conference and distilling facts there, any which way to kind of reach the general public.
+ 
+ 
+ 
+- And we're going to get into this in a minute, because you said it's not academic work, 'cause it's meant to be consumed by a lot of people, but there's a lot of academic rigor that has to go into actually ensuring that you're producing can stand up to that type of, basically, that type of insight. But let me back up for one second, because one of the themes of Here to Help is really understanding what makes people tick and what makes people do what they do. How did you end up becoming an economist? What was it about this that drew you into it?
+ 
+ 
+ 
+- I am, gosh, my first economics class was senior of high school, and it was just amazing, sitting in class, I was like, huh, this is a framework that helps me understand how things work. And I thought it was amazing. And that's kind of how I think about economics. It gives you a way of thinking and tools to be able to analyze data that you see, and then tries to simplify it so that you can think about what will happen next or what it means, and the simplest one probably being supply and demand as a model and trying to think about what impact that will have on quantities and prices, or whatever you're trying to answer. But I thought those super appealing, and so that was my first foray into the world of economics. And then I went to college and stuck with economics, and had my first job at the New York Fed, still really liked economics, detoured ever so slightly and did a PhD in finance. Still economics, but in the finance space. And yeah, I just ever since that first class, I really love being able to take data, analyze it, and try to explain the world around me, or take a difficult problem and solve it. And along the way, I've met some fantastic people, and I've had the chance to collaborate with really fascinating people, and it's been fantastic.
+ 
+ 
+ 
+- So given the background that you have, and with the academic chops, but you've spent some time in the public sector and in the private sector, you have decided to dedicate your career to being in the private sector. What is the difference there, and how did you end up deciding that for you this was the right path?
+ 
+ 
+ 
+- Ah, that's an easy one, 'cause I feel like a grand total of five people read my dissertation. So after over a year of work, I'm like, no one else wants to read this? And no, I joke a PhD is permanent head damage, but it's all about getting, you got to have a lot of patience, but you pick up a cool tool set to be able to do research with, and I think being in the academic space has a lot of advantages, and you can certainly do really cool things there. The reason I chose to go into the private sector is that I like it, the speed to be slightly faster. You just have closer deadlines, if you will. Projects tend to not take years, but more like weeks and months. Particularly as you think about you do V1 of a project, and then V2 and V3, and you build on that, and versus trying to do all in one big chunk. I love collaborating with people, and I feel like the private sector has given me ample opportunity to do so. And last but certainly not least, I do think when you think about the private sector particularly today, and this is different 30 years ago, businesses generate so much unique data. Indeed has so much unique data that if you're in an academic setting, you probably don't have access to, and so being able to kind of take that data, analyze it, and then have the platform and to be able to have a huge impact. And so if those five people reading my dissertation, I can reach millions via reporters getting news stories out there, and the team has the ability to multiply that research and do so much more with it as well. It's really that combination of data, the platform, the impact that you can have overall, and along the way, being able to collaborate with fabulous people. That's what really ended up making me choose the private sector in the end.
+ 
+ 
+ 
+- So you've said the word impact about 12 times, and so obviously, that's the focus of what we're trying to do, is to help people with this data, and so I want to talk about some of the different audiences that we try to actually provide this insight to. So we'll start with job seekers, which is one that maybe to me, even to start before we created this team and this role, I could see how researchers might care about this data. I could see maybe how employers were thinking about trends, and that might be helpful from the hiring perspective, but it wasn't as clear until we started doing this work about the impact on job seekers. And Indeed is obviously all about the job seekers. So can you talk first about what this data means, how they're useful to job seekers, and how they might use it to understand their lives, their careers, their opportunities?
+ 
+ 
+ 
+- Yeah, I think first and foremost, I believe in transparency, and having a ton of data to make better decisions. And I think as job seekers out there, or just to general public, the more information you have, the better off you are. And so if you can open up "The Wall Street Journal," "The Guardian," whatever "The Globe and Mail," whatever it may be, and figure out, okay, what's actually going on right now, and how should I interpret this and what it means to me? That's really important because behind every piece of data, behind every number, there's a story, and those stories are actual people, right? When we look at an unemployment rate of 3.6%, that means there's still 3.6% of the people out there that don't have a job, and there are reasons that they don't have jobs. And so it's important for us to analyze that, shine a light on it, and sometimes directly, it'll be important to job seekers 'cause they'll be able to make better decisions. They'll understand wages are going up. Can I ask for an increase? Is it the right time to ask for an increase? Is it competitive out there? Are there a lot of jobs to be had? What's the situation like? Are other people going through what I'm going through? So that's really important, but I also think it's really important to them indirectly, because policymakers really need this analysis too, this research, this data, because hopefully they will make policy changes that are really important to job seekers. And particularly when you look at different, anyone who's worked in data can you look at the average, or you look at the median, this is what's happening right now. But then if you start to slice and dice it a little bit more and look at sub-trends or the tails, you start getting into some really interesting trends that perhaps you wouldn't have gotten into originally. And so gaining that insight can be really powerful, and you want to be able to represent everyone as best you can, of course, and uncover trends that aren't so obvious, that people can really understand, use. And so I'll give you an example of what I'm talking about. We did a bunch of research on women in the workforce, and found that, of course, labor force participation isn't quite back yet for a lot of women out there. And one of the reasons is that they still are on the hook for daycare responsibilities, or just having kids at home, or dealing with kids in and out of school, as we're still very much still dealing with the COVID crisis. And one of the things that's really important for women as they search for another job is the flexibility to ask for remote remote work, and having that knowledge, knowing that there are a lot of outlets out there that offer remote work, and what benefit packages look like, and what other flexibility there is to be had in a job is really important, so it's important for the job seeker, for women to actually have more information about that, and it's really important for policymakers and employers as they figure out how to attract and retain talent. So it really comes in different shapes and forms, but hopefully that gives you some sense around why this is so important that we do this.
+ 
+ 
+ 
+- So the topic that is probably on the front page, or the top of the news hour, more frequently now than ever before is this idea of the future of work. I'm not going to ask you to predict the future of work, but how does economics in this study and the data that we have, how does that help prepare people, and how can people use the insights and research produced by the Hiring Lab to help to think about preparing themselves for the changes that are happening right now?
+ 
+ 
+ 
+- Yeah, I chuckled when you talked about the future of work, because I always feel like this is it. We are living the future of work right now. It starts right here, and it's a continuous thing that kind of happens along the way. I don't feel like there's a cliff where you jump over and you're like, oh, this is the future now. So, and I think that the pandemic itself has really kind of sped up some of these trends that we've seen already emerge pre-pandemic. And for example, remote work is a fabulous example. I think that's one that really stands out. We have a lot of people being interested in remote work, and there's a lot more remote work being offered right now. But your takeaway might be, particularly in the early days of the pandemic, I think all we talked about was remote work, and how it's the new form of working, realizing that only a third of jobs can be done remotely, at least in the US, is puts a wrinkle in things, 'cause there are a whole lot of jobs out there that cannot be done remotely. And then of course, you have to figure out is remote really the right thing for you, or you want to have a hybrid approach? And so collecting data and figuring out what is the right approach and what works, and obviously, at Indeed, I remember first time I spoke with you, how many experiments we run and how many things we trial and error along the way. It's obviously this is the time to kind of try this all out, what works and what doesn't work. And so as we're, I think we've proven that remote work can work, but how do we want to change it? How do we want to tweak it? How can we make it better? Economics kind of gives you the framework to then take in that data, analyze it, solve problems along the way, and do it on a micro level, but really on a macro level as well. So looking across the entire economy and seeing what is developing, and that's just for one topic. That's just for remote work. I think we're also going to emerge out of this pandemic with unfortunately, the imbalance between labor, demand and supply very much intact. And I think that gives a lot of power to employees, and we see they have a lot of bargaining power to ask for higher wages, for more benefits. And it'll be interesting to kind of see what policy comes out of that, and how we will shift the types of jobs and our thinking around all of this. So a lot of really interesting moments happening right now, and the economic frameworks will hopefully let us analyze all this, and it's a field day for obviously Hiring Lab, because we get to look at all these trends, and take our data that we generate, and also that we find in the wild, if you will, to answer some cool questions along the way.
+ 
+ 
+ 
+- So, with great power comes great responsibility. You all have a lot of responsibility in producing work that is has that academic rigor that is accessible and consumable and understandable by a broad group of people, but also that you need to produce work that is socially responsible. And how do you and your team think about that and ensure that the impact of your work, and its impact on society?
+ 
+ 
+ 
+- Yeah, in general, we take our research rigor extremely seriously. And we realize with this comes great responsibility, because you don't want to just inform, or do research and have a sexy headline. You need it to be true. You follow the data. You make sure that the work you've done is accurate, that you've crossed all the Ts, dotted the Is. We've a bunch of quality control checks that we have on the team to kind of make sure that what we've seen in the data is accurate. And particularly, for anyone who's ever done data analysis, you'll know that it's very easy to cherry pick, and pick out trends that support what you want to say, or you filter one way or the other and get something else. So you need to make sure it's a robust result that you're looking at, and so we take that seriously. And then I think what you meant is also how do we tailor our research topics to make sure that they're socially responsible? So there, it's a combination of, we have our own agenda that we try to devise. So we get together as a team or within a country, and say, here are topics we think are important and we want to research more of. For example, how has remote work influenced how cities grow? Will the housing market forever change now that we have remote work? Who has been left behind? If you think about emerging from this pandemic, not everyone is able to ride the wave. The tide has not lifted all boats equally, and a lot of groups were disadvantaged by the pandemic, and have not gained ground yet. And so having our own agenda really helps, and then we of course are responsive to what is top of mind for press, and what topics we hear there so that we can engage in conversations and push that further along, and provide additional information and insights that hopefully shed light on different situations that we believe are really important.
+ 
+ 
+ 
+- So we talked about job seekers. We talked a little bit about social responsibility. Let's talk a little bit about employers. So the Hiring Lab does speak directly to, frankly, to companies of all sizes about the labor market and how they might think about their hiring strategies. How are employers dealing with this moment right now?
+ 
+ 
+ 
+- I think employers are in a tough spot, if you think about it, because it's relatively difficult, depending on which sector you're in, of course, but relatively difficult to attract talent and to retain talent right now. We see a lot of churn, particularly at the lower end of the income distribution. And so if you're looking at frontline jobs even in leisure and hospitality, it's really hard finding people. You hear stories of ghosting all the time, where they think they hired someone, but that person doesn't end up showing up. And employers are dealing with sometimes difficult conditions and they have to figure out, okay, what can we offer in terms of increased wages, better benefits, more flexibility, whatever it is? What can we do to listen to our current employees and potentially new employees to make sure that we offer a good work environment for them? So I'd say it's pretty hard out there for a lot of employers as they kind of figure out how to solve their issues and hire the right talent.
+ 
+ 
+ 
+- So one of the big narratives of the last couple of years has been how the pandemic has really just exposed, and in many cases, widened the deep structural inequities that we have in society, and specifically in the labor market. How can the work of your team give some kind of insider guidance to how we might build a fairer system to help all people get jobs?
+ 
+ 
+ 
+- I think it all starts with having the right data and having the right research, because if you think about, you're absolutely right in that, you probably already had a high paying job, and your ability to work from home was relatively high. If you had a lower paying job, oftentimes you were on the front lines. We saw a lot of people lose their jobs early on in the pandemic, almost overnight, and that drove the wealth gap further apart. And having research on that is the first step to being able to fix the problem. You can't fix the problem without having the right data in place and the right facts, and then having that conversation. And I think Indeed is already an incredibly data-driven company, and I think we strive for having that knowledge, for being able to kind of have all of our facts straight, in order to make an educated decision. And so I think Hiring Lab is in the position to help in that. We can analyze that data. We can try to collect that data. Even sometimes you have to run surveys or whatnot to even collect new data that you don't already have in the wild. So we can help get a lot of that data, analyze that data, and disseminate it so that employers, policymakers, employees have a wealth of information to be able to make more guided decisions on that. So to me, it always starts with that. You want to be able to have the right data in place, know what the problem is, and identify a solution using data with that.
+ 
+ 
+ 
+- Economists in general are very comfortable talking about what we're seeing right now, or what we have seen, not as comfortable making predictions about the future. So I'm going to ask you to think three to five years into the future, but I'm not going to ask you what the unemployment rate is going to be. I'd like to know what is your vision for what the Hiring Lab will be in three to five years?
+ 
+ 
+ 
+- Oh, that's... I'm trying to...
+ 
+ 
+ 
+- Maybe that's harder than predicting unemployment, but what would you like to see?
+ 
+ 
+ 
+- I was going to come up with a great joke about meteorologists, about how economists make meteorologists look good. I don't know, I'm not finding a good one right now, but...
+ 
+ 
+ 
+- Meteorologists are very happy to make predictions. They're just wrong a lot.
+ 
+ 
+ 
+- Maybe economists too, who knows? No, I think we would be delighted if we are known for producing rigorous, useful, understandable research that uses unique Indeed data that helps people make better decisions, so there's the word again. We want to have impact along the way and be known for it, and I think we'd be delighted if we were in that spot. And I think we're hopefully already to a large part in that spot already.
+ 
+ 
+ 
+- So one of the things that you were touching on before is the difference between, especially when you're working with big numbers, with lots of zeros and many commas, and at the scale that we think about things, but that it is important to break that down and to look at a smaller scale and see what's happening with real lives and real people. And I guess my question is if you think about your work and the impact of your work, millions of people in the "New York Times" or whatever it is, have you had experience where you've actually seen the impact of your work on real people, and what is that like?
+ 
+ 
+ 
+- Oh yeah, definitely, and I think in different shapes and forms. Early on in my career, I would see my research or my team's research show up in a newspaper article and send it to my mom, and who are we kidding? I might still do that every so often. Look, mom! So that's cool, and you see that a lot of people will read it. In terms of actually using it, when I was doing housing research, we did research on homelessness and HUD was the Department of Housing and Urban Development, was able to use some of that research to inform their decision making, dealing with the homelessness crisis. And that was really powerful to see. Looking at, I used to work at Zillow, and we develop a rent index there, and that was used to figure out what kind of subsidies to pay veterans to be able to afford rental, rents, basically, to rental buildings, and so that was an actual application of our data. Just the other day, we were part of my team and I traveled to Germany, and we partook in a conference, and talked about the US labor market with a bunch of central bankers, is to be able to kind of shape policy going forward there. The big R, what's going to happen, is there going to be a recession or not? And how does monetary policy inform all of that? The team has built an incredible partnership with a lot of central banks around the world. So we partner with Bank of England, Bank of Canada, the Fed, getting them data. And you can kind of see how your work influences there as well. I think the coolest example probably of my work impacting someone, or like at least being out there in the wild was I was in San Diego. I was in a cab, and the cab driver told me that he had read some really cool research on how global warming was going to affect houses on the coastlines. And I was like, oh yeah, that sounds like very cool research. And I'm like exiting the cab. I'm like, that was my research. Thank you. So it was pretty cool. You find this in a lot of different shapes and forms where you find the team's research being displayed somewhere along the way and making an impact or influencing everyday people, and that's really great to kind of see.
+ 
+ 
+ 
+- Yeah, and I think the experience, I know for me, but I've just spoken to so many people at Indeed that the impact of, I was actually in a Lyft going to the airport yesterday and having this conversation, and at the end of the conversation, somehow it came out that I worked at Indeed, and the guy said, oh, I found all of my jobs on Indeed. And just even those connections of actually finding an actual person who's made that connection and where you've touched someone, especially because we spend all day long staring at computer screens, and so it is really nice to see a real human impact in that.
+ 
+ 
+ 
+- Particularly for something so fundamental. You can't get much more fundamental than the joy on someone's face when they got a new job, when they are able to figure out where they're going to go after they get up in the morning and how they're going to make some money to be able to get necessities for their family, or whatever it is. It's so empowering.
+ 
+ 
+ 
+- It certainly is. Well, I could talk about this stuff all day long, but as we are wrapping up, I would like one more time to look a little forward into the future, and asking a different question, which is, we've been through the most extraordinary upheaval globally over the last couple years that most of us have experienced in a lifetime. And my question is looking forward, what, in all of the uncertainty and the challenges that we've been through, what leaves you with some optimism for the future?
+ 
+ 
+ 
+- In general, I like to believe that things always get better. Don't get me wrong. We've seen our ups and downs along the way, a lot of downs lately, but in general, I have to believe that the future will be brighter. It'll be better, and we will make strides as humanity to get to a better spot. So I'm excited for that. I'm excited for being able to participate in a moment of time that will shape the future. There are few events in history that I think have real meaningful impact, and I think the pandemic is one of these moments, and it still seems rather unreal that we're in this moment right now, and to see what kind of impact that's going to have on the labor market and how we can make it better, how we can make it easier for people to get jobs, and how the fact that obviously there's a crazy imbalance right now in terms of how many job seekers we have and how many open jobs we have. In fact, we have like two jobs for every unemployed person out there right now in the US. And so it's really powerful to think about how can we help people get into the right jobs and what data can we look at to figure out what are barriers to entry, and what are people dealing with? And using our own data for that is really exciting as well. So I'm super excited for the future, to be able to kind of solve some of those problems and see where we see where we land with that. And I'm excited to do it with Indeed data, and at this company, and with our fabulous team of economists at the Hiring Lab. And so I'm generally pumped, if you can't figure it out. I'm generally just really excited to embark on this journey at this moment in time to solve what I think will be some hairy issues along the way, but hopefully will be solvable, and we'll end up in a better spot.
+ 
+ 
+ 
+- Well, that's a beautiful way, I think, to wrap things up, although I think it would be an irresponsible and a lost opportunity to not give a plug for the Hiring Lab here. So for anyone that is unfamiliar, hiringlab.org. You want to just give one minute on what would people find if they go to hiringlab.org if they haven't been there before.
+ 
+ 
+ 
+- You'd find a ton of really interesting research, graphs. Make sure you can toggle by country, so hiringlab.org up above. You can choose your country of choice. You could find data that we've generated, particularly during the pandemic, like a postings tracker, how many open postings are there to kind of measure what's going on in the marketplace, or in the labor force, rather. Research about different groups of people and how they're facing problems during the pandemic, like women and how people are recovering. We run a regular survey. You can read all about it on our site as well, as well as regular labor market updates, one pagers about different sectors of what's currently going on in the construction sector, or the leisure and hospitality sector. So any sort of data that you might want about the labor market, hopefully you can find it on hiringlab.org. And if you don't find it, let us know. Give us some good ideas and we'll be happy to dive into it.
+ 
+ 
+ 
+- Fantastic, well, Svenja, thank you so much for joining me today. Thank you so much for all the work that you and your team do to help try to make sense of everything that's going on in the world around us. And I am really looking forward to seeing more output from the Hiring Lab, and getting a chance to do more with you. So thank you.
+ 
+ 
+ 
+- Thank you so much, and I really appreciate the opportunity to be here. It's just wonderful being able to connect with you and have this conversation, so thanks.

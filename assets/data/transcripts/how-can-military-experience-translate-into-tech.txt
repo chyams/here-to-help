@@ -1,0 +1,165 @@
+- Hello everyone. I am Chris Hyams, CEO of Indeed. And welcome to the next episode of Here To Help. At Indeed, our mission is to help people get jobs. This is what gets us out of bed in the morning and what keeps us going all day, and what powers that mission is our people. Here to help is a look at how experience, strength and hope inspires people to want to help others. Today is July 25th and it is National Hire of Veteran Day here in the US. According to the Department of Labor, nearly 200,000 military members retire or separate from the armed services every year. Many of these veterans have suffered trauma, both physical and emotional while serving their country and National Hire Veteran Day is an opportunity to show our appreciation for their sacrifices. Marine Corps Veteran and Hire Our Heroes founder Dan Caporale created National Hire Veteran Day in 2017 as a call to action for hiring companies and also to encourage veteran job applicants. He created an online career fair to connect veterans with prospective employers. And from there, the idea of a special day took flight and National Hire Veteran Day finally began being observed around the US. Today, I am delighted to be joined by Anthony Moisant, Indeed's Chief Security Officer and Chief Information Officer. Anthony is a veteran of the US Navy having served as a nuclear submarine sailor. He is the executive sponsor of Indeed's veterans and allies inclusion resource group. Anthony, thank you so much for joining me today.
+ 
+ 
+ 
+- Thanks for having me, Chris.
+ 
+ 
+ 
+- All right, well, let's start where we always start these conversations, how are you doing right now?
+ 
+ 
+ 
+- Yeah, it seems like a simple question, we were kind of talking about this little earlier with a really complex answer I think about this last weekend, I'm conflicted. There are certainly a lot of turmoil in the world with the wildfires in California and in the Mariposa area outside Yosemite, certainly Ukraine and the Odessa missile strike that happened over the weekend as well. But I also have my two children, I'm an empty nester. I have them in the home with us for the summer. We were able to eat breakfast together, it was just an amazing, simple moment that we had together. And so I'm feeling pretty conflicted there, but all in all doing well.
+ 
+ 
+ 
+- Well, thanks for sharing that. We have a lot to cover today, but before we dive in, can you just share with folks what it is that you do to help people get jobs?
+ 
+ 
+ 
+- Sure. I mean, it's a simple, again, a very simple but powerful mission. My day to day, my part of helping people get jobs, I think is re removing the sand out of in their ears so that they can bring their best self forward in our mission. I think I wear two hats, one of them is focused on reducing friction for the business itself. And the other is a building capability to help connect folks with opportunities in a secure and trust centered way.
+ 
+ 
+ 
+- So, as I said in the intro, you are a veteran yourself and you're the executive sponsor of our vets and allies and inclusion resource group. This is a day that means a lot I know, to you and to the other members of the community here Indeed, and we'll be a big theme for today's conversation, but I want to back up first and before we get to the role that the military played in in your life, if you can talk us through your early experiences and you where you were and where you thought you were headed in your life.
+ 
+ 
+ 
+- Yeah, happy to. So where to start, we could probably take this a number of different directions, but I guess I'll begin from almost the beginning. I grew up in a fairly traumatic situation, lots of family trauma that was quite severe. And through what that led me to in my teenage years, it led me to hunting for a sense of belonging and where I found that was through gangs, really getting involved in gangs as a teenager, getting involved in drug dealing as teenager. Not the healthiest environment I went from bad to worse, quite honestly. But eventually ended up homeless. And one of the stories that I share, it's actually crazy, I haven't shared it for 30 years, but since joining Indeed, I feel like I've shared this a number of times now. It seems to be a kind of an interesting story for folks. So I ended up homeless and one of the most, I think the pivotal moment in my life was I used to break into cars for warmth. So I was in Chicago, and for those that may not know this Chicago in the dead of winter can be brutally cold. 60 below with wind show. One of my last experiences breaking into a car is right behind a body shop in the south side of Chicago. I broke into a Pontiac Fiero and most folks probably don't remember what a Fiero, it's an extremely small vehicle, but I broke in just to gets some shelter. And as it was very difficult to try to find some sleep in that car, but I was in a state of complete despair, zero hope left in me. And so I was rifling around in the glove compartment, as I was known to do back then to try to find something, some resource that may be of some use to me, and I happened hop on a checkbook. And at that time, I didn't even know how a checkbook worked, to be honest, I had no understanding, but I thought it was like cash, I thought it was just a resource and so through the evening, I hatched a plan to take this checkbook and go to the bank and see if I can convert that into money. Some resources, maybe get a warmer place to stay, maybe get some food. And I ended up walking by a military recruiting center and I don't remember exactly what occurred at that point, it wasn't intentional at all. I think maybe they were serving hot chocolate and donuts or something. I ended up walking in and military recruiter took an interest in me, really took an interest in me. And as I walked in, I sort of had this belief at the time that there were there were three avenues for me in my life. One was in the cemetery, to be in the prison system or if I got lucky enough, I could work in this box factory that was around the way. And this military recruiter took me under his wing and took a deep interest in me and sold me on the opportunities of the military. And I'll be forever grateful for that recruiter and the opportunity they gave me.
+ 
+ 
+ 
+- Had the opportunity to hear this story a handful of times now since you've been telling it, I guess at Indeed. And it's one of those stories where, looking back at it, and we know where the story goes because you're sitting here right now at Indeed, and so I can recognize that as a story listener, as a critical turning point in your life. but one of the things that I think is interesting is that so many of these critical turning points in our lives maybe at the time, we have no idea how significant they could be. I mean, what were your thoughts at the time when you made that choice to leave the checkbook and go into this office, what did you think was going to happen?
+ 
+ 
+ 
+- It definitely did not feel like the pivotal moment that now that I've got wisdom of the years looking back, it didn't feel like that to me. I remember the feeling, there's this, when I say despair, I think despair is the complete lack of hope, and I just want to be clear like that was, I had no hope for anything at the time. And so to have someone care for you in the way that this recruiter did for me, it was just very humbling. And I felt like I owed it to him to give this whole thing a shot in the moment, I don't think I fully appreciated the gravity of the situation that I was in, I don't think I fully appreciated the blessing that was given to me at that at that time. And that truly is a feeling. I am a religious man, and it's a feeling that I hold pretty dear right now.
+ 
+ 
+ 
+- So what do you think this recruiter might have seen in you at that moment? And then I guess, from your perspective, what did it mean to have someone see something in you? What did that do for you in that moment?
+ 
+ 
+ 
+- You know, the military has this concept, I think what the recruiters saw in me was, I mean, I was just disheveled, I was. But I was young, I think I was a good looking kid back then. I could be somewhat presentable, maybe even somewhat charming, but I don't think any of that came through in that moment. I think what came through was perseverance, I think he saw perseverance in grit before I saw it. Again, I don't think I fully appreciated that. Military has this statement that we share often, which is embrace the suck. And him, I think hearing my story and hearing how things have turned out for me throughout my teenage years, I think he saw that I would be a resilient person that I could embrace the suck, that I could work through really tough situations. And he took me from sleeping in a Fiero to sleeping on a submarine at. And at six two, both of those are not the most comfortable of beds to be in. So it, up to that point, everything that I took from the world was that I was a disappointment, that I was not worth anything, not something that was of value. And so him seeing value in me and my talents was was a shock to the system.
+ 
+ 
+ 
+- So the intervention, and maybe that's the best way to think about it in your life that had happened at that point, and clearly it sets you from one path to a different path, but it wasn't just that it gave you an opportunity for purpose and dignity and meaning, and it had had all that stuff, but it also, the military was a place where you basically picked up a set of technical skills and that led you to the career that you're in right now. Can you talk about what it was that you started to get there that put you on not just a different path, but the path that you've been on for all these years?
+ 
+ 
+ 
+- Yeah, yeah, when I was younger, so I was always technically competent, when I was really young I taught myself how to code. When I joined the military, and I think the technical skills that I learned really came from when I was in the military, it wasn't as technologically advanced as we've got in the military today. In fact, my first deployment was on a submarine that was built in the 60s. You know, we were still using punch guard systems to launch torpedoes as an example, but we were just making this shift into more modern technology platforms. And it started, I think the recognition that I still had a skillset there that needed to be polished, that raw talent needed to be polished and fine. It really started from, we had one laptop in the squadron and it broke and someone said "Moisant you know computers, right?" And I fixed this laptop. And then it was "Moisant where" we were on, I think this is probably a deep technical thing, but we were on token ring, coax cable for networking. And they were like, "Moisant you know computers, can you figure out this thing called ethernet? What about firewalls? You know anything about firewalls." And so I think what they saw in me was just latent talent around technology and one of the most powerful things again, a blessing of mine was there were no boxes, I wasn't in a box. It was learn about firewalls, learn about security systems, fire control systems, cryptographic controls, networking, database programing, I just had this opportunity. They just kept throwing opportunity at me, kept throwing training my way. And I took what was already an inherent love and refined that into something that, who knew? Over 20 odd years has been pretty valuable in the marketplace.
+ 
+ 
+ 
+- So one of the things that I think about, so you have two job titles, you're chief information officer and chief security officer. And on the security side I think about the military is, is defense and security is about defense. I'm curious what it was maybe in the military experience that got you in particular interested in, and I know now passionate about the world of security.
+ 
+ 
+ 
+- I started, yeah, it's a great question, I started not from the aspect of defense, but actually thinking like the attacker first. And I think at this point it's certainly a cliche for the folks in the eighties, kid in his bedroom, teaching himself to code on a Commodore 64, completely cliche. And we talked before about movies that were around, hacking movies back in the early 80s. And there was war games is something that everybody brings up as an example and that was certainly a powerful movie to unlock some passion of mine, but also Richard Pryor, I remember that "Superman 3" movie, I remember every component of that movie, and I just wanted to wield that kind of power. And for those who haven't maybe seen the movie, A, like go run to watch that movie. It's just an amazing movie. But the premise is that this is a technologist, he is a computer programmer who's figured out how to take a fraction of a penny from paychecks and aggregate that. And he did so by defeating the security system of his corporation. And I just thought that was the coolest thing ever. And I remember the command even that he typed, which was as, as sophisticated hacker as he was, the command was "disable all security systems" and then he was in. Now it's a little bit harder nowadays, not that much harder nowadays, unfortunately, but it is a little bit harder than just a one line command. But I think that got me into this sort of competitive feeling. And I went from that to looking at bulletin boards around freaking, which was interacting with the phone system back in the 80s and 90s. I really just got very competitive about understanding how things work. And I think that that mindset of curiosity and thinking like the like offense, offense makes the best defense in my view.
+ 
+ 
+ 
+- You learned a huge amount about a whole lot of things during your service, and you were able to travel the world. And so in 1999, you left the military with all of these now developed technical skills and you entered the civilian workforce, so what happened next?
+ 
+ 
+ 
+- Yeah, I'd love to say like, wow, that's the hero's journey here we are, great career, but it wasn't that I was coming up to the bay area in 98, 99. I had a job coming from the military, it was all lined up and then it fell through, basically I got ghosted before I think ghost it was a thing. But I had already come up, and in fact, I shared earlier about the fires in Mariposa. I actually came up to stay with family after this happened in Mariposa, coincidentally, and I was distraught. I couldn't believe that I came up, got out of the military I came up for this job, and the rug was pulled from underneath me. And I was staying with family, money was running out and no job prospects in site. And brings up, I hesitate to overemphasize despair, but it was like that second moment in my life of just complete despairs. So I ended up working at a gateway in Mariposa, a gateway gas station on the way to Yosemite National Park. I had traveled all over the world. You want me to be a developer? I can do that. You want me to deal with firewalls? I can do that. Build servers? I can do that. I had all of this wealth of knowledge and this experience, and couldn't get a job. And I was on the midnight shift at this gas station. And prior to having a cell phone, talking to my wife at one o'clock in the morning over the pay phone after just sweeping up cigarettes as an example. And I think it was probably worse than being homeless, because I got a dose of what I could be, what life could be. And it felt like it was ripped away. So I remember talking to her and she said everything's going to be okay, it's going to work out. And I was furious with myself and I kind of felt like this is, who was I fooling. You're never going to be better than where you began. The internet, job search was not great in 98, 99. It took a while for that to come along. But it feels like a fantasy, almost like a movie, but I could you not the very next day, I get a call back from a tech company that ended up being acquired, I ended up working at Versata. I think we've got that shared bond. I ended up working at Versata and taking that company public at the time. So again, one of life's mysteries and amazing blessings.
+ 
+ 
+ 
+- So the story that you're relaying here about having capabilities skills that are clearly marketable and not being able to find work, this is a huge part of what we look at with our mission every single day is the difference between between talent and opportunity. What from that experience do you draw on when you think about in your role today and what it is that we're trying to do as Indeed?
+ 
+ 
+ 
+- Yeah, I don't know if I have great answer, but there's something that I hold pretty dearly which is ambition requires hope. And I think hope we are generally a visual animal species, we've got to be able to see what we're going after. And one of the amazing things about Indeed is like the power of the platform that we get to help people visualize what opportunity looks like. And I think when I interface around the subject of homelessness as an example, well, oftentimes there's this disbelief of just teach 'em how to fish. They'll be fine if you just teach 'em how to fish, they'll be fine. No, not without hope, not without a belief that you're going to catch a fish eventually. And I think the platform our platform itself is breaking down barriers. I think our voices are being heard in the most remote areas. And I get really excited when we look at things, we look at cohorts of individuals and people that have been impacted by the justice system as an example. We're letting them know that there's still opportunity out there, and we're using that power of our platform to do that. So that really excites me and is a key reason that I am so proud to be at Indeed, and to have this platform serving people so broadly.
+ 
+ 
+ 
+- You've had a now lengthy successful career as a leader. And one of the things that I think we understand about leadership is there there's multiple different ways that leaders can develop, but crucible experiences can be really powerful in your experience of being homeless, being a veteran. Those things clearly contributed to who you are today. How does that shape how you think about building teams and developing leaders?
+ 
+ 
+ 
+- Yeah, look, I think, and I certainly have a bias, but I think grit, hiring for folks that are resilient and adaptable and building that muscle it's something that needs to be built, grit, adaptability resilience is not just an inherent talent trait you either have it, or you don't have it. But I think building resilience into our culture, into our people, I think is something that the military does really well. And something that stuck with me, something that the military at least went, I was going through the ranks did not do particularly well, is leading with empathy. I learned that later on, there wasn't a ton of empathy when I was going through my military service. But the other thing that I think the military did, which I think they still do to this day, and I think we in Indeed, we always talked about this concept of find your next job at Indeed as an example, one of the things that the military fueled in me is the no box I can move around, I can learn new things. And I've carried that with me, and I've carried that to my leadership teams, worked yourself out of a job every six months, find something new, find a new talent, new skill set, deploy differently in the same way that we do in the military. Just an amazing opportunity that we have to have leaders that can kind of cross pollinate and move around through the organization and bring new perspectives. Yeah.
+ 
+ 
+ 
+- So one of the things about your personal story that's really profound and meaningful to me is, we talk a lot at Indeed about the fact that talent is universal, but opportunity is not. And you've had a series of experiences where opportunity was presented and your talent was able to sort of flourish as a result. But any of those turning points just as easily could have slipped through the cracks, and we would not be sitting here having this conversation today. So in terms of where Indeed sits and our mission and our values and what we're trying to do, what can we do to help ensure that other people have those opportunities don't slip through the cracks and can bring their talent to bear?
+ 
+ 
+ 
+- Yeah, I thought a lot about this. One thing that jumps out at me is being present in the communities that don't have the opportunities available to them. You know, I think about that pivotal moment for me was as simple as hot chocolate and donuts. And, but you've got to think about where was the recruiting center? Why was it there? It was definitely because these military recruiters are attempting to find talent in every community. And they know, it's first contact, first contract is something that lots of militaries recruiters will use. You got to be present in the community. And as large as Indeed is in our platform as ubiquitous as Indeed's platforms are. What really gets me going, what I get excited by are those moments where we see folks from Indeed or from our customers entering a community and taking that on as its own atomic project. I'm going to interface with that community, I'm going to demonstrate a level of care and love for that community. I think you will definitely uncover unpolished stones in that way, I think.
+ 
+ 
+ 
+- So, as you mentioned, we have as a part of really, of our mission of trying to break down bias and barriers in hiring and many groups face those barriers, but military veterans in particular, there's a huge disparity between the skills and experience and for a whole host of reasons how difficult it is to translate those into civilian opportunity. So what are some of the things that we're doing to help veterans find employment?
+ 
+ 
+ 
+- So one of them that I thought was just super cool recently is the drive for 500 program. This is that, Indeed is paying for CDL training for vets, and adding veterans to the transportation industry, this is an industry that's been demolished. It's an industry that I think is just required to be humming to solve some of the supply chain issues that we have. And we've got veterans out there that may not necessarily have the same level of certification that you might expect, but they definitely have the skill set and they have the experience. And so, like, that's just a very small example of Indeed playing a part here. We also have a site-
+ 
+ 
+ 
+- Can you, and not to interrupt, sorry to interrupt, but can you just explain what that program is for anyone that doesn't know what it is that we're doing there?
+ 
+ 
+ 
+- Yeah, so I think we are, I mean, it's a collaboration where we are taking 500, basically we are funding 500 veterans, their class A commercials driver's license through scholarships for veterans. And also the super cool thing is their spouse. So their spouses are available as well to enter this program as well. So kind of go on a PSA for a second, lots of folks are starting to think about veterans and as they exit the military community, just be aware that military families have a burden and they've had a burden on them when people are deploying as well. So I thought that was definitely, really, really cool. So we are pretty honored to help with that, essentially a scholarship program for 500 folks.
+ 
+ 
+ 
+- Yeah, and that challenge, we we've actually spent a lot of time looking at this. the challenge for military spouses is in some ways, actually there's another layer of challenge because at least the folks who are in the service while they're moving around from place to place, they at least are building a set of skills and experiences often for the partners because they are moving around. They have to leave a job when the time is to redeploy. It is very difficult sometimes to find that work. And especially if they're being deployed overseas, they don't have work authorization. So there ends up being huge gaps in experience, and at the very best they look like job hoppers. So those challenges are very real, and that is a really beautiful part of this program.
+ 
+ 
+ 
+- Yeah, I couldn't agree more. And of course on Indeed, we've got, Indeed for military, we encourage folks to take a look at that review, resume reviews, job search guides. We're partnering with Hiring Our Heroes as an example among many, many other things. Lots of resources out there for our veterans and their families.
+ 
+ 
+ 
+- So we spent a lot of time on your journey in particular, but in your current role, we touched on this, you're chief information officer focused on making Indeed be more efficient, make everyone more effective and driving innovation in the company. And then as chief security officer, which is a new role for Indeed, you're offer we've had a security team, but you're the first CSO at Indeed. How are you working to build a culture of security at the company and why is that so important?
+ 
+ 
+ 
+- You know, the core part of our value at Indeed is putting job seekers first. And that powers all the decisions we make, including how we manage and secure their private data. And we talk about embedding security into the DNA of the company quite a bit. When I started in my security journey, we literally were placed, security weenies were in a basement, in a tunnel behind locked doors, and the reality is the world is changed. It's transformed to the point where we can't possibly hire enough security practitioners or security natives to do right by our job seekers or to do right by our employers. We really have to enroll the power of our mission, we've got to enroll, use that to enroll everyone at at Indeed. And so we spend a lot of energy trying to find those moments that everyone has where they can think about the job seeker from the perspective of trust and security and embed that, and the things that they're doing. With the size and the velocity of our business change is risk, change equals risk from a security perspective. And the faster that we change, the more dynamic we are as a business, the higher the risk. And so we've got to deploy the power of our people and the power of our culture to combat some of that. That's generally where we spend the bulk of our time right now.
+ 
+ 
+ 
+- So in light of that, changes is risk over the last two and a half years, we've had one of the biggest changes to the way people work with, at least within the core of people where remote work is possible we had overnight a huge part of that world start working remotely. What kind of impact has that had and will that have on the world of security?
+ 
+ 
+ 
+- Yeah, we've seen it, we've definitely seen, first and foremost the most, the attack surface is much broader. We've always had executives traveling and salespeople traveling, and we've had to secure the fleet if you will. But the pace of change, the velocity of change, figuring out what the next normal is going to look like, it's even more dynamic than it's than it's ever been. And so one of the things that we've got to figure out is how do we secure the fleet when the fleet's not completely in our ownership. When people are coming to us using personal laptops and personal phones and interfacing with systems outside of the "norm" ends to acknowledge that we don't know what next week's going to look like as far as a pattern is concerned or a month after that. And so I think, again, the pace of change, the unknown unknowns that exist in our world are fairly frequent at this point. So again, I think that the power of culture jumps to the forefront of my think internet, and I know lots of folks think about this is that often security programs will refer to our humans being the weakest link. I prefer the slight pivot or redirection of that, they're also our biggest strength. And if we can tap the strength of our people through our culture, we can do mighty great things.
+ 
+ 
+ 
+- So speaking of tapping into that culture, the classic question, what keeps you up at night, but maybe a different way for me to ask it is, what can we as in Indeedians do to help you sleep better?
+ 
+ 
+ 
+- Yeah, I sleep like a baby, and my wife and I tend to watch television in the evening and I never finish a series, it takes us like six months to get through an episode. So I don't have a problem sleeping. But I jump out of bed thinking about, and trying to anticipate what, this is a common ritual for me, let me anticipate, sit quietly and anticipate what can and will go wrong. And I would invite all of Indeedians to do the same, when you think about mistakes that occur from a cyber breach perspective, as an example, often, very, very often you ask somebody what happened? And they will tell you if you've been through a breach, generally speaking often, they'll tell you, I knew I shouldn't have done that thing, but they did it anyway. And really it comes down to, in my view, not slowing down, not attempting to anticipate what could go wrong. So whether you're a product person, an operations person, an an engineer thinking about and trying to anticipate what could go wrong in getting ahead of that is a really valuable skillset.
+ 
+ 
+ 
+- Yeah, we talked about this a little bit last week, the qualities that make someone a good security professional or frankly even a good engineer is that ability to sort of think through everything that could possibly go wrong, which also makes us maybe not the easiest partners or friends, because we're constantly, at least mentally catastrophizing and thinking through those things, but it is an important skill set.
+ 
+ 
+ 
+- Absolutely. And Maryanne, my wife would tell you that I am not the person you want to plan a vacation, 'cause I'm going through the endless litany of what could go wrong in scenario planning, whatnot.
+ 
+ 
+ 
+- I could keep talking all day here, but our time is coming to a close, and so I'll ask you the closing question that I've asked everyone, which is with everything that we've been through and you kind of hinted it in your opening answer about how are you doing there's a lot of complexity and at any point in time, there are terrible things and miraculous things and sort of life is, is sort of that mix of all of that. And so the question is looking back over the last two and a half years of this pandemic, with all of that mixture in there, what experiences for you have left you with some optimism for the future?
+ 
+ 
+ 
+- Yeah, I think maybe full circle into why, I'm comfortable sharing my story now, so I think most notable and hopeful thing that I believe has occurred over the last several years is being open about trauma, and being able to talk about trauma and mental health and the complexities of life. I think we've normalized it at this point. I'm in therapy, I go to therapy religiously, but I remember even three years ago, I had a mentor that told me at the time and I did not share with the mentor that I was in therapy, and he said, everyone on earth should have a therapist. But I wasn't comfortable even three years ago letting this mentor somebody that I trusted and whom trusted me letting them know that I was in therapy as an example. And I think it's really powerful to be able to open yourself up and to do this without a ton of fear. I feel like sharing my story years ago would've been a career killer, would've been a deal breaker. You sold drugs, you broke into cars. It was very scary for me to open up and share, and I think the only way I have kind of rocked being able to do that is I think through the leadership of others and the transparency. So brings a lot of hope, and I think I'm excited by that.
+ 
+ 
+ 
+- Well, Anthony, thank you so much for joining me, and thank you thank you for sharing so much of your story, your experience, strength, and hope. It really is deeply meaningful to me to know you as a whole person. And I'm so grateful to have you as a colleague and a friend, and thanks for everything that you do to help people get jobs.
+ 
+ 
+ 
+- Thank Chris, appreciate you having me here.

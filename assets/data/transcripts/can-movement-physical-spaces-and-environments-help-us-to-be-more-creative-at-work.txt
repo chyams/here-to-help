@@ -1,0 +1,488 @@
+Hello, everyone. I am Chris Hyams, CEO of Indeed. And welcome to the next episode of Here to Help. And indeed, our mission is to help people get jobs. This is what gets us out of bed in the morning and what keeps us going all day and what powers that mission is our people. And most weeks here to help is a look at how experience, strength and hope inspires people to want to help others.
+ 
+ 
+ 
+But once a month, we bring in a guest from the outside to help shed some new light on what it is that makes people tick. And I'm very excited to introduce our special guest for today's episode, whose work centers on how we learn and how we think. Annie Murphy Paul is an acclaimed science writer whose work has appeared in The New York Times, The Boston Globe, Scientific American, Slate, Time Magazine and the Best American Science Writing, among many other publications.
+ 
+ 
+ 
+She is a bestselling author of several books, the most recent of which is The Extended Mind The Power of Thinking Outside the Brain. Her work has radical implications, not just for how we think about ourselves, but for policy, for architecture, education, community, the economy, and notably for indeed jobs. Annie, thank you so much for joining me today.
+ 
+ 
+ 
+Thanks so much for inviting me on, Chris, and I'm really pleased to be here.
+ 
+ 
+ 
+Let's start where we always start these conversations by asking, How are you doing today?
+ 
+ 
+ 
+I'm doing I'm doing really well, actually. I just came back from a spring break trip with my two sons to Florida. We had a great time. We rented a convertible and when we got back to Connecticut, where I live, the spring had kind of started while we were gone. So I'm feeling pretty good today.
+ 
+ 
+ 
+Fantastic. Well, let's start with just an overview at a high level of your work. So you're a science writer. You are the author of three bestselling books, The Cult of Personality Testing Origins, and most recently, The Extended Mind. How would you explain the focus of your work and what interests you?
+ 
+ 
+ 
+Yeah, well, you know, I think it might seem at first glance like my three books are unrelated or on on very different topics, and they are. But in my mind, they're really all about the same thing, which is this question that has always deeply interested me. I think the best way to put it is why do we become the people we are?
+ 
+ 
+ 
+You know, how is it that we become the human beings that we are today? And with that first book about personality testing, I wanted to challenge one of our cultures, most, you know, popular and common kind of answers to that question, which is personality. We are we are what our personality is. And and, in fact, we can measure and we can test and measure that personality.
+ 
+ 
+ 
+And I was skeptical of that idea to start with. But I, you know, approached it with an open mind. It ended up the book ended up being a cultural history and scientific critique of personality testing. It did give personality testing a hard time in the sense that I think most of these tests are not valid measures of of anything much.
+ 
+ 
+ 
+But I also found it extremely interesting that the history of of who created these personality tests, how they were shaped by their own times, their own generation, and how their personalities, in a sense, were. Oh, Gus, sorry. I meant to turn off that. That that notification. How their own personalities shaped the tests that they. That they. That they created for others.
+
+My second book, Origins is A is A is about the science of prenatal influences. And that, too, was an attempt to look at it was an attempt to be a sort of fresh take on this nature nurture question. You know, that's another way of looking at how do we become the people that we are. Is it nature? Is it nurture?
+ 
+ 
+ 
+That's been a debate that's been going on for a long time. It seemed to me that between that moment of conception, when the genetic blueprint gets laid down, you know, nature and the moment of birth, when we imagine that nurture parenting starts happening. There were these nine very consequential months that we hadn't really paid enough attention to. And so that book was about a field called The Fetal Origins of Health and Disease that argues that many of our the conditions that afflict us later in life have their start in in the nine months in the womb.
+ 
+ 
+ 
+So then the my most recent book, again, I think takes on some of the assumptions of our culture about why we are the way we are. You know, our culture tells us that intelligence is like a lump of stuff that's sealed inside our heads, that it's it's fixed, it's innate, it's measurable, it's rank able. Whereas the extended mind argues that our thinking processes and therefore our intelligence is something more like a quantity that's dynamically assembled moment to moment from the raw materials that we have available in our environment.
+ 
+ 
+ 
+So that to me was a really intriguing idea, and it's one that became the kernel of this latest book.
+ 
+ 
+ 
+So let's dove into the extended mind and and I recognize that it takes an entire book to really cover all of the topics here. But can we start at the highest level with just this idea of the extended mind? What is what is that principle and that that metaphor? There?
+ 
+ 
+ 
+Sure. So the the theory of the extended mind, I borrowed that actually from it's not my idea. I borrowed it from two philosophers, Andy Clarke and David Chalmers. They wrote an article in 1998 in a and published in the Philosophy Journal that introduced the idea of the extended mind and their first the first, very first line of that article.
+ 
+ 
+ 
+When I when I read this article many years later, many years after I was published, the first line grabbed me right away. And that line was, where does the mind stop and the rest of the world begin? And that was a provocative question to me, in part because it would seem to have a convention all answer, an obvious answer.
+ 
+ 
+ 
+You know, the mind stops the skull. The mind is identical with the brain. But Clark and Chalmers were saying, we're arguing, no, that's not the case, that actually the mind extends beyond the skull, it extends into the rest of our bodies. It extends into our physical environment. It extends into our relationships with other people. And what they focus on most intently in that article was it extends into our devices, our technologies, our tools.
+ 
+ 
+ 
+And we actually offload our some of our mental functions on to these extra neural outside the brain resources. And when we do that skillfully and intentionally, we can actually think better so that that that's where that idea came from. And I'd be happy to elaborate more on it. But that's, that's the basic idea.
+ 
+ 
+ 
+Yes. I think we probably can take the next 30 minutes just trying to unpack that that first idea. Let's start with with a book, a story that you tell in the book about an event that occurred in 1946 at the Moore School of Electrical Engineering. And if you can just share that story and what you identify as the implication of how we understand ourselves and think about ourselves.
+ 
+ 
+ 
+
+Yeah. So that that was that event that I write about in the book. It was really the introduction of the very first computer. And when we think of computers now, we think of our compact laptops. But this was a gigantic room sized computer called the NIAC. And it it, you know, compared to today's computers, it couldn't do a whole lot.
+ 
+ 
+ 
+It could carry out, you know, mathematical equations very quickly. And it it could supplement what were then known as computers were they were human computers. They were teams of of humans who were carrying out these these calculations. So it was a big advance from the point of view of the war effort. But the the, you know, possibilities for for postwar development were clearly there as well.
+ 
+ 
+ 
+So what's so interesting about the creation of this first computer is that when you look at the news coverage of and many reporters were invited in to from the country's major newspapers were invited in to see a demonstration of this amazing new machine. When you look at the news coverage of of the NIAC, all the articles called it in an electronic brain, an amazing mechanical brain.
+ 
+ 
+ 
+You know, they were all they were all likening this gigantic machine to a brain. That was the metaphor that they reached for. And what's so interesting is that very quickly that got turned around such that we, meaning American culture, American scientists, and then the rest of us, the American public and people all over the world were referring to the brain as a computer.
+ 
+ 
+ 
+It's like we, you know, human beings created this machine and then we likened ourselves to it. And that's important because this brain, as computer metaphor has become so pervasive. So, you know, it infiltrates our language. It infiltrates our thinking in ways that we're not even always aware of. But it really, from the extended mind point of view, it misses so much about what makes humans intelligent.
+ 
+ 
+ 
+You know, it's many of the wellsprings of our own human intelligence, as opposed to computer intelligence, arise from the fact that we do have bodies, that we are embedded in physical spaces, that we are profoundly connected to other people, you know, and and yet this brain as computer metaphor sets all that aside and looks at our human brains as almost second rate computers.
+ 
+ 
+ 
+You know, and I think that that's that's a mistake that, as I say, cuts us off from the sources of our own human intelligence. And so that's why it's time to sort of revise our metaphors for for the brain.
+ 
+ 
+ 
+Yeah. So you spend quite a bit of time talking about these faulty metaphors. One of the other metaphors that you describe is that people think of the brain as a muscle, for example, which it's also not. But but you introduced this idea of a different metaphor of the brain as like a magpie. Can you explain that? Because that's probably not something that anyone who hasn't heard that before has ever thought about the brain.
+ 
+ 
+ 
+But how does that help us understand how we actually think?
+ 
+ 
+ 
+Yeah. So what's intriguing about magpies, you know, a the species of bird that are related to crows. So picture a crow, a black, a blackbird. What's what's intriguing and interesting about them is that they are well known for taking bits and pieces from their environment, you know, shiny bits and pieces, not just twigs and straw, but but things like wire and coat hangers and eyeglass frames and croquet, wickets and chopsticks and anything they can find in their environment.
+ 
+ 
+ 
+They pick up those bits and pieces and they weave them into their into their nests. And so if we're to think of the brain as being like a magpie that moves the focus away from the brain as the soul locus of thinking, that's the only place where it happens and says, no, actually thinking happens in this gathering and weaving process, the brain is drawing on its the raw materials in its environment, just as the magpie draws on whatever it can find in its environment.
+ 
+ 
+ 
+And we weave those bits and pieces into our trains of thought, which means one of the many implications of this shift in metaphor means that the quality of the raw materials that the brain has access to now really matters in terms of how well we can think. It's not just a matter of what goes on in here, but what goes on out here.
+ 
+ 
+ 
+So as a science writer, you know, people are drawn to all kinds of different areas of intellectual pursuit. And and if you were writing about physics, it would be fascinating, maybe for you and for us to understand a bit more about the physical world. But can you talk a little bit about how understanding the brain and how it works, how it's more than just intellectual, really satisfying?
+ 
+ 
+ 
+Like how does it actually help us as humans to have a better understanding of how we work and and how we process information and how we make decisions and live together?
+ 
+ 
+ 
+Mm hmm. Yeah. Well, our culture is really dominated by a a conception that I'm going to borrow again from Andy Clark, one of the creators of the of The Theory of Extended Mind. He says that our culture is is a very brain bound one. In other words, our ideas about where and when and how thinking happens are very brain bound.
+ 
+ 
+ 
+There. They're restricted to the brain. And so that means that our ideas about education, about workplace training, about management, these are all very brain bound in the sense that we think of doing that. When we think of doing those things, we think of cultivating the brain, cultivating the ability of the brain to to solve problems, to learn, to understand, to to come up with creative ideas.
+ 
+ 
+ 
+But if we open up that kind of brain bounds notion and admits all the possibilities and all the avenues that are opened up by the extended mind, then all of that looks very different. You know, then the role, for example, of a teacher or a manager or a leader becomes something more like creating situations and contexts in which people can think instead of trying to to operate on the brain, you know, instead of trying to to cultivate the brain.
+ 
+ 
+ 
+It's more about looking at what's outside the brain, again, looking at the quality of those raw materials, but also thinking about how how much people know about how to use them. You know, I've argued and the extended mind that we all really we all need a kind of second education. You know, we get one education that's in using our brains, but we need a second education in how to use outside the brain resources because although we're all thinking outside the brain all the time, I mean, we're all obviously running ideas by colleagues.
+ 
+ 
+ 
+We all gesture, gesture quite a lot. We all arrange our workspaces in particular ways. You know, these are all aspects of the extended mind. We tend to do so in a kind of haphazard and an unintentional way. We're not really thinking about it. We're not really informed in the way that we do that. So it's my contention that we actually need to get that second education and thinking outside the brain more than ever now, because the gap between what our brain alone, the biological brain, the unassisted brain, what it can do, the gap between what it can do and what we ask of it these days is big and it's getting bigger.
+ 
+ 
+ 
+You know, the the biological brain evolved to do certain things that are different from what we ask it to do these days. It evolved to do things like move the body, evolve to navigate through three dimensional landscapes that evolved to interact with them, with other people. And these things it can do effortlessly and easily things like dealing with manipulating symbols and thinking about abstract ideas.
+ 
+ 
+ 
+Those are really hard to do for the brain. And yet that's what constitutes most of our, you know, knowledge workers that says that constitutes our days. So the brain, it's difficult for the brain to do those things. The gap is big and getting bigger, as I mentioned. So the way to transcend that is to get better at thinking outside the brain, to get better at at extending the mind.
+ 
+ 
+ 
+Well, so that's a good segue way into where you spend a lot of your time is just talking about productivity and creativity. And that's clearly in the in the arena of our mission at indeed which is helping people get jobs. And in particular, we spend a lot of time now thinking about the future of work. And so one of the things that you do talk about is using the body to create these contexts to help us think better and can you talk a little about what you know, what we've learned in recent decades about the relationship between, you know, you mentioned hand gestures around bodily movement and cognition.
+ 
+ 
+ 
+Sure. Yeah. You know, and this is another way in which this book ended up, as all my books seem to end up being kind of cultural critique, you know, because our culture tends to separate mind and body, you know, to elevate mind above body and to assume that the body has nothing intelligent, to add to our thinking processes.
+ 
+ 
+ 
+But research in a field known as embodied cognition is is demonstrating that that's very much not the case. Before I talk about gestures and movement, I think I'll just mention one other one additional really interesting aspect is thinking with the body, which is interception. That is a sort of fancy scientific word for our capacity to tune in to our internal signals and cues.
+ 
+ 
+ 
+That's something that we don't do very often during our really busy days. We're so focused on all the other stimuli coming at us from the external world. It's easy to forget that we have this internal world as well, where the signals are quite a bit more, you know, quiet and subtle, but they're always there. That flow of internal signals and those internal cues and signals actually carry a lot of wisdom, a lot of stored experience that we miss out on.
+ 
+ 
+ 
+If we if we're not tuned in to our in our introspective sense. So that's one way in which the body can guide our thinking. And other is, as I mentioned, gesture, gesture. If we think about it at all, we tend to think of it as a kind of clumsy add on to verbal expression. You know, we tend to elevate the importance of of verbal expression in our culture and to assume that our hands don't really have much to say, except maybe to emphasize, you know, or to communicate with other people, which they certainly do.
+ 
+ 
+ 
+But what's interesting about the research on gesture is that our own gestures are actually part of our own thinking process as well. And in fact, far from being a kind of tagalong to verbal language, it's usually the case that our gestures are a few milliseconds ahead of where our verbal expression is, and when people are inhibited from gesturing, their speech is less fluid, their thinking is less cogent, they're less able to explain complicated concepts or solve problems.
+ 
+ 
+ 
+So you could really think of our gestures as making this loop between our brains and and our hands. And that loop is where a lot of good thinking happens. And the last thing I just mentioned, Chris, is the importance of movements to thinking. And again, like our culture has this idea that if you really want to do serious thinking, real thinking, then you sit down and you're still, you know, until you get it done.
+ 
+ 
+ 
+And that can be it can be a very frustrating prescription, I'm thinking, especially for for students and young people. But it's also not very effective. You know, human intelligence evolved in the crucible of movement, really. You know, when you think about the kind of activities that our forebears engaged in, like foraging and hunting, those were cognitively complex and they were physically demanding at the same time.
+ 
+ 
+ 
+So movement and thinking far from being separated have always been really intricately interwoven in human evolutionary history. And it's still the case that movement helps us think in a number of ways in terms of keeping us alert and energized, in terms of expressing some of some concepts and ideas that are hard to hard to capture in words. And then also in terms of bringing people together, you know, it's there's lovely research that shows that when people walk together, they fall into a kind of synchronized rhythm.
+ 
+ 
+ 
+And that helps to create a sort of common mindset that allows them to cooperate and and collaborate together more easily. So it's my view that we should be looking at every every chance we get to incorporate movement into our workday rather than say, you know, again, separating it and saving, say, your your gym, work out for after work we should be building movement breaks into into the work day itself.
+ 
+ 
+ 
+As you you start the book actually talking about taking a walk and just this idea of taking a break from from work which we think of as not productive, but that it actually could be an essential aspect of productivity. And I kind of wanted to maybe try to, to, to bring in something else which might or might not work.
+ 
+ 
+ 
+And so tell me if I'm if I'm missing something here. But so, for example, during the pandemic, my wife and I had both been New York Times crossword puzzle fans for many years. And when the pandemic started, we were suddenly at home every single night, in the same bed, every single night, which which we hadn't been for many years from all this travel.
+ 
+ 
+ 
+So we started doing the Times crossword puzzle together. I think we're on day 680 of our streak right now of doing it every single day. One of the things that's clear, if you're anyone who does that Times crossword puzzle is that puzzles get harder throughout the week, Saturdays are the hardest ones, and almost always on Saturday we don't finish in one sitting.
+ 
+ 
+ 
+And this Saturday we were working on it. We got through the southwest corner. It was just brutal and it was a whole bunch of just facts that you either knew, you didn't know. There was no way we were going to get it. We set it aside. We came back 3 hours later and in 5 minutes it was done.
+ 
+ 
+ 
+And so and that happens all the time. And so one question that I have is so clearly, you know, you talk about just taking a break and and walking and doing something physical as a way, but to where is there a line between doing something versus and I'll bring one of the things so I'm a I'm a baker.
+ 
+ 
+ 
+I'm out of bread and I like I love this idea of fermentation. And I think of my brain and ideas as needing to ferment that sometimes what they need that actually time is an essential ingredient and that things need to be left alone and that they do. It's kind of like the muscle analogy that doesn't work that that certain ideas do not yield to headlong assault.
+ 
+ 
+ 
+So, so, so what is what is the relationship, I guess, between between movement, but also actually just leaving things alone and coming back to them. And how does that all.
+ 
+ 
+ 
+Yeah, I'm glad you mentioned that brain is muscle metaphor again because I think that's where we go wrong. A lot of times we there's this, you know, wonderful idea of the growth mindset introduced by Carol Dweck, this like the Stanford psychologist that suggests that the brain is like a muscle. And the more we exercise it, the stronger it gets, the smarter we get.
+
+ 
+ 
+ 
+And that's a it's a very hopeful and optimistic concept and one that's helpful to a lot of people. But I do want to suggest that it's limited in the sense that we're still is still it's still neuro centric. It's still saying it's still really only allowing the brain a role to play. And it can give people the idea that, you know, to get something done again, you just you kind of have to sit there and work your brain until it it produces the results that you want.
+ 
+ 
+ 
+And this often leads to frustration to to kind of an impasse, you know, like when you couldn't finish the puzzle. And so that's where I think the extended mind can come in and make a few a few suggestions. One is that often changing the context is more useful than sort of a top down, you know, trying to influence your brain directly.
+ 
+ 
+ 
+It's more effective to kind of change what's around you. You may have you and your wife may have come back to to that crossword puzzle in a different state, a different physical state, a different emotional or psychological state that made it easier for you to solve the problem. I think there was also probably some activity by what's known as the default network, which is the part of the brain that's kind of that takes over when we're not intently focused on on one thing.
+ 
+ 
+ 
+And so you you guys started you know, you started the process of rumination and reflection in your first go round with with the crossword puzzle. And even as you went off and did other things, your brain was your brains were sort of working still to to to solve those puzzles. And so when you sat back down, you know, it seems miraculous.
+ 
+ 
+ 
+But really, I think that's the trick is sort of working with the brain as it is rather than imposing ideas about how the brain should work. You know, we've got to work with this, the brain as it is, which is limited, quirky, idiosyncratic by logical organ that evolved in certain ways. That's what we've got. That's what we've all got.
+ 
+ 
+ 
+You know, it's not this isn't a question of small individual differences, smarter, not so smart. It's this these are universal characteristics and universal limits of the human brain. And and the extended mind, I think, is very wise in terms of working with the brain and and the rest of us as we are. It's very wise in terms of understanding our nature as human beings.
+ 
+ 
+ 
+We'll come back a little later. Just even that concept of smart versus not so smart. We have a we have a way that we think to measure that which could be academically or performance at work. But given everything else that you're talking about, there's a whole bunch of other factors that could plan to that that could give certain people advantages or disadvantages.
+ 
+ 
+ 
+So I want to get back to I think you mentioned this earlier, but one of the things that you you talk about is this idea of offloading and the role of that play. So that's another one that I was explaining to my wife this weekend. And she got super excited because she is she is a sort of spatial thinker.
+ 
+ 
+ 
+So she her her desk for 20 years in our old home was the dining room table. And she just always had to have she's a writer and she's she's currently in graduate school right now. She has to have all of her things laid out in very specific piles. She was a she was a librarian. She was a cataloger for many years.
+ 
+ 
+ 
+And so she thinks in terms of visual organization and and then in her office, now she has her desk is just a 12 foot long board where she has all these things laid and she just needs. And so when I was when I was reading this, I was I was telling her and she got super excited about this idea that she wasn't just being strange, that this is actually it works for her.
+
+ 
+ 
+ 
+So can you can you talk about offloading? What is offloading and how does that help us?
+ 
+ 
+ 
+Yeah, Chris, it sounds like your wife is way ahead of everybody. She's already she's already there. Yeah. So cognitive offloading is this idea that rather than keep ideas and pieces of information inside our heads, we really want to get them out on to physical space whenever possible. And that could be a big board like the one your wife has or a table with things spread out.
+ 
+ 
+ 
+Or it could be a bunch of post-it notes that you move around. It could be a multi-monitor setup where you have a lot of space in terms of computers, screens, computer monitors, and there's a lot of advantages, it turns out to not doing things in our heads. And again, our culture tends to tell us that smart people, you know, geniuses, they do it in their heads.
+ 
+ 
+ 
+But in fact, for all of us, it's often more efficient and more effective to to download, to offload our mental contents. And then we are able to interact with them in a new way. You know, first of all, we get some distance between ourselves and ideas. We all know that somehow when we when we are writing something and we print it out and we see it on paper, we can we interact with it differently.
+ 
+ 
+ 
+Right? I mean, it doesn't it doesn't make sense from like a computer point of view, but this is how human intelligence works, that the context in which we encounter information really matters for our thinking when we engage in cognitive offloading and we we turn objects, turn ideas and pieces of information into objects that we can manipulate, like Post-it notes.
+ 
+ 
+ 
+And I am a prolific Post-it note user. That's another way that we're drawing on what is easy and effortless for the brain. This kind of physical manipulation, this manipulation of physical objects, rather than, again, keeping ideas in this abstract form that is difficult for the the brain to keep track of. I mean, for one thing, when we keep everything in our head, there's some amount of mental bandwidth that's being absorbed just in terms of just in that's being eaten up just by kind of keeping those things in mind, you know, and we we when we set down that burden, when we put ideas and information into physical form, then we free up bandwidth to to
+ 
+ 
+ 
+think in, in sort of higher ways, in more imaginative ways, because we're not engaging our brains in that simple task of just remembering and keeping track. You know, and one more thing, and I wonder if your your wife has if she takes advantage of this as well, is that once we offload ideas and information from our heads and put them out there into physical space, we can use all these embodied resources that are, again, sort of our birthright as human beings, for example, our spatial memory.
+ 
+ 
+ 
+You know, we have a really keen spatial memory that comes from the fact that we had to remember where things were, where food was, where threats were, you know. But now we can apply that to pieces of information and to ideas and draw on our spatial memory to remember that, Oh, these things go over here, these things are over there.
+ 
+ 
+ 
+You know, these kinds of embodied resources that are wasted effectively when we keep all our thoughts and ideas in our heads.
+ 
+ 
+ 
+Now, that's a yeah, there's so much shit. She's going to need to read your book because I think that she does really well also. I mean, she, she taking, taking walks is an essential part of her writing and thinking process and always has been. And so I you mentioned geniuses before. And so in this in this conversation around what actually is smart or what is genius, you you talk about the the minds of of experts, not actually as as superstars and as geniuses, but people who are particularly adept at experimenting, at testing and backtracking.
+ 
+ 
+ 
+And so one of the things, you know, we talk about this a lot at indeed that with respect to creativity, that the greatest enemy to innovation is certainty. And that that what I what I always say is that as soon as we think we have the answer, that's when Curiosity dies. And so the way that we work is, is hypothesis, is experimental design and then, you know, unemotional analysis of the results and then repeat over and over and over again.
+ 
+ 
+ 
+So can you talk about what what the research shows about this idea of expertize and what what makes someone good at solving these types of problems?
+ 
+ 
+ 
+Yeah. Yeah. I think this this is another kind of misconception that the book addresses, another kind of misconception we have about what makes for a smart person, an expert, a genius. And we have this idea, again, that a genius does it in their heads. You know, that like chess masters who can can play out whole games in their heads or memory champions who can remember, you know, all the digits of pi or something and keep track of them in their heads.
+ 
+ 
+ 
+But in fact, in the in the real world, you know, experts are often the people who know how to think outside the brain. They are the experts are more likely to involve their bodies in their thinking. They're more likely to use space in the way some of the ways that your your wife was that you were describing your wife does they're more likely to draw on the social resources that are available to them.
+ 
+ 
+ 
+And I think it's it's actually a given that that is what experts do. That's a good reason to incorporate training or education in thinking outside the brain into the how we train novices, how we educate learners and beginners because we're giving them a false impression, you know, of what expertize is that it's all in the head and not out here in the world, as you were saying, experimenting, seeing, you know, trying things out, backtracking, seeing what happens, and then iterating again.
+ 
+ 
+ 
+I really think we have some some misimpressions and some misconceptions about how genius and how expertize develops that we could stand to correct.
+ 
+ 
+ 
+So I'd love to move on to what is probably right now, at least in the in the business world, the currently the most intensely speculated on and debated topic, which is the future of work. And so much of my reading of your work and I described this when we were meeting last week, you know, I can summarize as we're wrong about everything.
+ 
+ 
+ 
+And so so let's start with how we have been working for generations and generations, which is sitting at desks in offices. And your assertion in part is that because we've misunderstood the metaphor we use for the mind that we've built these entire environments which make it actually harder for us to to think so how does how does what you find in your research help us to understand what's wrong with how we work and what a better work environment would look like?
+ 
+ 
+ 
+Yeah. Yeah. Well, you know, the pandemic has obviously been a huge tragedy. I think it's also potentially an opportunity to reexamine the ways that we were working, whether they were really effective, and if not, how might we reinvent the workplace? We have this really unusual opportunity to do that. You know, in a if if the pandemic brings about the end of the open office, I think that will be that will actually that will be a blessing.
+ 
+ 
+ 
+You know, I write there's quite a long section in my book about the the particular hell that that is the open office and why it's so opposed to all the ways in which, again, we're wired as biological creatures. Why, why it gets in the way of the kind of complex cognition that most of us need to be doing in our in our daily work lives.
+ 
+ 
+ 
+You know, the open office is full of exactly the kind of stimuli that distract us most. And we are, by nature, distractible creatures, because a distraction could have meant an opportunity or a threat. So we're really we're really wired to be distracted and this is another way in which I think we blame ourselves. We see an individual failing when really it's that our our workplace practices and settings are not supporting the way the brain really operates.
+ 
+ 
+ 
+So, you know, and more than that, the open office is full again of exactly the kind of stimuli that's most distracting, you know, social stimuli. We're we're incredibly social species. We're attuned to what other people are saying. We there's interesting research that suggests that it's especially distracting to hear just one half of a conversation, like if someone's on the phone because it's in the nature of the brain that we're always predicting what will come next.
+ 
+ 
+ 
+And it's harder to predict when we're only hearing one half of the conversation. So it's a it uses up a lot of mental bandwidth to have all these conversations are half conversations going on around us. So, you know, now and then, of course, there's the question of of working at home, which and how we balance that with coming into the office, which I know a lot of workplace managers and leaders are wrestling with right now.
+ 
+ 
+ 
+And one idea that I find particularly useful in that regard is this concept of of intermittent collaboration and that this is this research finds that we we don't do our best thinking when we're isolated and on our own all the time. But we also don't do our best thinking when we're in constant collaboration and constant contact with other people.
+ 
+ 
+ 
+Instead, we we get our freshest ideas and our most effective solutions when we oscillate between those two ways of working and thinking, you know, this deep, deep work, this sort of protected, this work time that's protected from social influence, but then also this kind of intensive collaboration with other people when we can move back and forth between those two ways of working and so then I think the question becomes how do we create spaces and how do we create social practices of support?
+ 
+ 
+ 
+Those two very distinct kind of ways of working. I think it's possible that, you know, our new kind of hybrid arrangements might support this intermittent collaboration model really well, if our if our home, our time working at home became that kind of protected space, if we can do that, if we can, you know, while people off a bit from all the distractions that are coming at them from from their jobs and then turn the office into a space that is really conducive to that kind of very intensive collaboration.
+ 
+ 
+ 
+I think we might be able to get the best of both worlds that way.
+ 
+ 
+ 
+And work for full disclosure. So indeed has had only open offices since that, since the day the company started. I've never had no one has an office. And then what you've.
+ 
+ 
+ 
+Done pretty.
+ 
+ 
+ 
+Well. And then we've spent the last two years completely isolated at home, so we've it sounds like we've been doing everything totally wrong so that I guess the good news is it's all uphill from here. But we are like a lot of people really thinking about what what is an office for right now. And so there's a whole bunch of research that points very clearly in the in the the struggle between people wanting people to come back to an office and and people not wanting to come back to an office is that there's a big disconnect between what what management wants, which by and large, when you read the surveys, is they want people to
+
+ 
+ 
+ 
+come back to the office for, quote, productivity. And when you ask employees what they want out of an office experience, it's connection. And so the difference between those two is actually going to be the source of a huge amount of trouble when people are being asked to come back to an office for for different reasons. But I guess that this is it's a huge opportunity for us to rethink as we're bringing people back, as everyone else is and what what that looks like.
+ 
+ 
+ 
+And so one thing, though, that comes out of that and it's very clear from what we saw during the pandemic, is that different people definitely have different styles. For some people, they are would describe themselves as extroverts. They need connection on a regular basis and they felt on top of global pandemic and social unrest and everything else, they felt really isolated.
+ 
+ 
+ 
+For some other people, this was kind of a dream come true. They really just wanted to be able to, to, to, to think and not be bothered. And so one of the things you talk about, this idea of extension inequality and that that, you know, the structure of our society is based on these assumptions that some people can think more intelligently than others.
+ 
+ 
+ 
+And maybe that's not true, but people think differently. Can you talk about that, that concept a little bit? And how does that maybe play into how we would think about what workplaces could be designed like?
+ 
+ 
+ 
+Yes, yeah. Thanks for asking about that, Chris, because I do think that's a really that's a really important idea. And just to go back for a moment, to your your point about individual differences in how people responded to the changes induced by the pandemic. I do think that the the finding in the research that kind of bridges that those two very disparate reactions responses is the finding that people think best when they're in spaces where they feel empowered and they feel in control, you know, and that if there is a sense in which many employees don't want to return to the office, I think we have to ask why maybe the office the office was
+ 
+ 
+ 
+not serving them. Maybe they didn't feel and maybe we now can help make them feel that their space in the office is is in some way. It belongs to them, that they they're in control, that they're empowered in that space. And that may mean that an extrovert is empowered to, you know, invite all kinds of people into their space and interact with them.
+ 
+ 
+ 
+It may mean that an introvert is is empowered to to shut people out and to be to to have that quiet time that they need. But to this question of extension inequality, I do think that it's a real contrast to our to our conventional conception of intelligence being a lump of stuff bigger or smaller, you know, that is sealed inside the head when we start thinking about actually the intelligence of our thinking depends very much on the quality of the raw materials that we have to think with and how well we know how to use those things.
+ 
+ 
+ 
+Then, as I say, the quality of those raw materials and what people know about how to use them become instrumental, you know, constitutive of of people's ability to think intelligently. And I think once you start thinking about extension inequality, you it's it's hard not to come to the conclusion that the raw materials for thinking are in no way distributed equitably in our society.
+ 
+ 
+ 
+You know, starting with what we were just talking about, how many workers have have control and an empowering sense of of of control over over where they work, you know, not as many as we would like. How many people in the workplace have freedom to move their bodies around? How many people in the workplace have access to green spaces to to well-designed, beautiful spaces?
+
+ 
+ 
+ 
+You know, it should be all of us, but it's not how many people have access to to caring mentors, you know, or ambitious and driven and inspiring peers. You know, all of these things really matter for how well we can think. And we should be incorporating the fact of extension inequality into the way that we assess people and to the way that we understand people's challenges and people's strengths.
+ 
+ 
+ 
+So at the very end of of the book, you tell the story about Joshua Aaronson, who happens to be from from Austin, where where I am, and his idea of the the stereotype threat study. Can you talk about how that study helps us understand is as you lay out in the very end of the book, that the extended mind might lead us to embrace the extended heart.
+ 
+ 
+ 
+Yeah, yeah. So I do love the story about Joshua Aaronson that I tell in the book that he when he was in graduate school, he had a very imposing and very intimidating graduate advisor. And Josh said that whenever he was in the presence of this very intimidating professor, his own IQ would drop by 20. And I love that story because I think we all have had that experience and Joshua is saying this is, you know, we might call this a kind of situational intelligence like we the idea that we have one IQ score that is the same at all times in every place just doesn't track with our own experience that we can be really
+ 
+ 
+ 
+intelligent in some situations and really stupid in others, you know? So that really argues for the creation of smart situations, you know, intelligence situations that support our ability to think well and one and then so that was in graduate school and Joshua Aaronson went on to with Claude Steele, come up with this very important landmark kind of idea in psychology and social psychology, stereotype threat, which is the idea that people who are members of group, that groups that are negatively stereotypes are they're aware of these stereotypes.
+ 
+ 
+ 
+You know, they're they're they're they become almost hyper vigilant, kind of looking for cues that tell them that others are judging them in this the stereotyped and prejudiced way. And that actually that monitoring and that that anxiety uses up a fair amount of mental bandwidth in itself and ends up diminishing the the performance of people who are subject to stereotype threat so that there's so many ways to go with that.
+ 
+ 
+ 
+But one in particular that has special relevance for the extended mind is, is that psychologists have started to talk about not just prejudice, people like prejudice inside people's minds, but actually prejudice places that often, you know, these stereotypes and these messages about groups of people are embedded in the spaces that we that we occupy schools and workplaces and other other public spaces.
+ 
+ 
+ 
+So we need to be really attuned to whether they're are accused of of identity and belonging represented in people's in the spaces where people do their thinking. Because those kinds of cues send a really important message about whether you'll succeed in this place, whether you'll be welcome in this place and I think that's a different way of thinking about stereotyping and prejudice than we than we traditionally have had.
+ 
+ 
+ 
+To keep talking about this for a very long time. But we have to wrap up. So I always start with the question of how are you doing? And I always end with the same question, which is when you look through the lens of the last couple of years and all of what we've collectively been through, is there anything from that experience that has left you with some optimism for the future?
+ 
+ 
+ 
+Yes, there is. And I think that the you know, the pandemic and the way that it cut us off from many of the mental extensions that help us to think prince, you know, most significantly in person interaction with other people. But also it cut many of us off from our physical workspace, from our offices, which might have been arranged in ways that help to help us think and even in some ways cut us off from our bodies.
+ 
+ 
+ 
+I know many of us felt like we were hour after hours sitting, you know, feeling like like a head in a box, you know, like a brain in a vat after being in a zoom meeting. After a zoom meeting. And I think we, many of us, felt that we were not thinking at our best during the pandemic. And I think it helped the fact that we were cut off from many of these mental extensions that in normal times help us.
+ 
+ 
+ 
+I think I think that that helped to make the extended mind more visible than it was before. It helped to make the extra neural resources that assist our thinking. It helped us recognize how very important they are. And now, as we kind of approach something, you know, something like normal, we can we can welcome those mental extensions back into our lives and also think in a really intentional and skillful way about how to use them to to enhance our thinking even more.
+ 
+ 
+ 
+Well, Annie, thank you so much for joining me today and for sharing this amazing work. And thank you for everything you do to help us as a species understand a little bit better how it is that we, we think can learn.
+ 
+ 
+ 
+Thank you. Thank you, Chris. This is really been fun.
