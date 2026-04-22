@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     searchResults.innerHTML = results.map(function(r) {
       var ep = r.item;
-      var thumb = thumbUrl(ep.youtube_video_id);
+      var thumb = thumbUrl(ep);
       return '<a href="../episode/' + ep.slug + '/index.html" class="search-result">' +
         '<img src="' + thumb + '" alt="" class="search-thumb" loading="lazy" ' +
           'onerror="this.src=\'../assets/img/H2H_logo_blue.png\'">' +

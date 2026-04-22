@@ -28,11 +28,10 @@
   </div>
 </header>
 <div class="episode-single">
-  <a href="https://www.youtube.com/watch?v=YR5IKKSbRdw" target="_blank" class="video-link" title="Watch on YouTube">
-  <img src="https://img.youtube.com/vi/YR5IKKSbRdw/maxresdefault.jpg" alt="Recognizing the work of our Accessibility Inclusion Group"
-    onerror="this.src='https://img.youtube.com/vi/YR5IKKSbRdw/hqdefault.jpg'">
+  <button type="button" class="video-facade" data-video-id="YR5IKKSbRdw" data-title="Recognizing the work of our Accessibility Inclusion Group" aria-label="Play: Recognizing the work of our Accessibility Inclusion Group">
+  <img src="../../assets/img/thumbnails/recognizing-the-work-of-our-accessibility-inclusion-group.jpg" alt="Recognizing the work of our Accessibility Inclusion Group" >
   <div class="play-button"><svg viewBox="0 0 68 48"><path d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.63-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="red"/><path d="M45 24L27 14v20" fill="white"/></svg></div>
-</a>
+</button>
   <h1>Recognizing the work of our Accessibility Inclusion Group</h1>
   <div class="episode-meta">
     <span class="guest">Erin Waddell</span>
@@ -53,6 +52,26 @@
   
   <div class="episode-nav"><a href="../../episode/helping-the-latino-community-and-its-allies-develop-and-drive-change/index.html">&larr; Helping the Latino community and its allies, devel...</a><a href="../../episode/celebrating-black-history-month-in-europe/index.html" class="next">Celebrating Black History Month in Europe &rarr;</a></div>
 </div>
+<script>
+(function(){
+  var btn = document.querySelector('.video-facade');
+  if (!btn) return;
+  btn.addEventListener('click', function(){
+    var id = btn.getAttribute('data-video-id');
+    var title = btn.getAttribute('data-title') || '';
+    var wrap = document.createElement('div');
+    wrap.className = 'video-container';
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+    iframe.title = title;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    iframe.setAttribute('frameborder', '0');
+    wrap.appendChild(iframe);
+    btn.replaceWith(wrap);
+  });
+})();
+</script>
 <footer class="site-footer">
   <div class="footer-inner">
     <p><strong>Here to Help</strong> was hosted by Chris Hyams, CEO of Indeed.</p>

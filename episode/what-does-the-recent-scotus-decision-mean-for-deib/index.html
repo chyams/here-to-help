@@ -173,6 +173,26 @@ Ella is the Founder and CEO of Ellavate Solutions, a Professor of Practice at Ge
 </div>
   <div class="episode-nav"><a href="../../episode/what-are-the-economic-implications-of-racism/index.html">&larr; What are the economic implications of racism?</a><a href="../../episode/challenging-the-status-quo-sinead-burkes-journey-of-disability-activism/index.html" class="next">Challenging the Status Quo: Sinéad Burke’s Journey... &rarr;</a></div>
 </div>
+<script>
+(function(){
+  var btn = document.querySelector('.video-facade');
+  if (!btn) return;
+  btn.addEventListener('click', function(){
+    var id = btn.getAttribute('data-video-id');
+    var title = btn.getAttribute('data-title') || '';
+    var wrap = document.createElement('div');
+    wrap.className = 'video-container';
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+    iframe.title = title;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    iframe.setAttribute('frameborder', '0');
+    wrap.appendChild(iframe);
+    btn.replaceWith(wrap);
+  });
+})();
+</script>
 <footer class="site-footer">
   <div class="footer-inner">
     <p><strong>Here to Help</strong> was hosted by Chris Hyams, CEO of Indeed.</p>

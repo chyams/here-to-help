@@ -28,11 +28,10 @@
   </div>
 </header>
 <div class="episode-single">
-  <a href="https://www.youtube.com/watch?v=NXz0mpXhk14" target="_blank" class="video-link" title="Watch on YouTube">
-  <img src="https://img.youtube.com/vi/NXz0mpXhk14/maxresdefault.jpg" alt="How does belonging help people in the workplace?"
-    onerror="this.src='https://img.youtube.com/vi/NXz0mpXhk14/hqdefault.jpg'">
+  <button type="button" class="video-facade" data-video-id="NXz0mpXhk14" data-title="How does belonging help people in the workplace?" aria-label="Play: How does belonging help people in the workplace?">
+  <img src="https://img.youtube.com/vi/NXz0mpXhk14/maxresdefault.jpg" alt="How does belonging help people in the workplace?" onerror="this.src='https://img.youtube.com/vi/NXz0mpXhk14/hqdefault.jpg'">
   <div class="play-button"><svg viewBox="0 0 68 48"><path d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.63-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="red"/><path d="M45 24L27 14v20" fill="white"/></svg></div>
-</a>
+</button>
   <h1>How does belonging help people in the workplace?</h1>
   <div class="episode-meta">
     <span class="guest">Olivia Fromm</span>
@@ -200,6 +199,26 @@
 </div>
   <div class="episode-nav"><a href="../../episode/the-role-of-community-in-stopping-aapi-hate/index.html">&larr; The role of community in stopping AAPI hate</a><a href="../../episode/why-empathy-at-work-is-about-more-than-pronouns/index.html" class="next">Why empathy at work is about more than pronouns &rarr;</a></div>
 </div>
+<script>
+(function(){
+  var btn = document.querySelector('.video-facade');
+  if (!btn) return;
+  btn.addEventListener('click', function(){
+    var id = btn.getAttribute('data-video-id');
+    var title = btn.getAttribute('data-title') || '';
+    var wrap = document.createElement('div');
+    wrap.className = 'video-container';
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+    iframe.title = title;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    iframe.setAttribute('frameborder', '0');
+    wrap.appendChild(iframe);
+    btn.replaceWith(wrap);
+  });
+})();
+</script>
 <footer class="site-footer">
   <div class="footer-inner">
     <p><strong>Here to Help</strong> was hosted by Chris Hyams, CEO of Indeed.</p>
